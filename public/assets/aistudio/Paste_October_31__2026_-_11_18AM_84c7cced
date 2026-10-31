@@ -1,0 +1,1196 @@
+# PROMPT MASTER — DESENVOLVIMENTO COMPLETO, EVOLUÇÃO DA IA E BACKEND DO MOVA
+
+## OBJETIVO PRINCIPAL
+
+Quero que você assuma a evolução e o desenvolvimento completo do projeto MOVA, utilizando todos os arquivos, códigos, estruturas, telas, funcionalidades e recursos que estou disponibilizando.
+
+O MOVA é um aplicativo de controle financeiro voltado principalmente para jovens, com o objetivo de oferecer uma experiência simples, intuitiva, moderna e inteligente para organização financeira pessoal.
+
+O projeto já possui uma estrutura de frontend, fluxo de usuário, telas e funcionalidades desenvolvidas, além de um backend que também será disponibilizado para análise e desenvolvimento.
+
+**IMPORTANTE: ESTOU DISPONIBILIZANDO TODO O BACKEND ATUAL DO MOVA PARA QUE VOCÊ POSSA ANALISAR, DESENVOLVER, CORRIGIR, COMPLEMENTAR E TRANSFORMAR ESSA ESTRUTURA EM UM BACKEND O MAIS COMPLETO POSSÍVEL.**
+
+Não quero apenas sugestões, explicações ou alterações superficiais. Quero que você trabalhe diretamente nos arquivos do projeto, implementando efetivamente as melhorias necessárias.
+
+Seu trabalho deverá contemplar tanto o frontend quanto o backend, garantindo que todas as funcionalidades estejam corretamente integradas.
+
+O resultado esperado é transformar o MOVA em um aplicativo financeiro funcional, com uma inteligência artificial capaz de compreender os dados dos usuários, analisar seu comportamento financeiro, realizar cálculos, comparar períodos e oferecer orientações personalizadas.
+
+**Não reconstrua o aplicativo do zero. Preserve e aprimore a estrutura existente.**
+
+---
+
+# 1. ANÁLISE COMPLETA DO PROJETO EXISTENTE
+
+Antes de iniciar qualquer alteração, faça uma análise técnica de todo o material disponibilizado.
+
+Examine:
+
+- Estrutura do frontend.
+- Estrutura do backend.
+- Linguagens utilizadas.
+- Frameworks.
+- Bibliotecas e dependências.
+- Arquivos de configuração.
+- Rotas e endpoints.
+- Serviços existentes.
+- Componentes visuais.
+- Fluxo de navegação.
+- Integrações externas.
+- Implementação atual da inteligência artificial.
+- Estrutura de armazenamento dos dados.
+- Funcionalidades concluídas.
+- Funcionalidades incompletas.
+- Erros e limitações existentes.
+
+Identifique o que já funciona e o que precisa ser desenvolvido.
+
+### Regras obrigatórias
+
+1. Preserve as funcionalidades que já funcionam.
+2. Não exclua telas sem necessidade.
+3. Não substitua o fluxo original.
+4. Não crie funcionalidades duplicadas.
+5. Não crie uma segunda inteligência artificial independente.
+6. Não descaracterize a identidade visual.
+7. Não substitua tecnologias sem justificativa técnica.
+8. Não utilize dados fictícios como se fossem informações reais.
+9. Não faça alterações que quebrem a comunicação entre frontend e backend.
+10. Mantenha a compatibilidade com a estrutura atual sempre que possível.
+
+Caso encontre problemas na arquitetura, corrija-os de maneira organizada e documentada.
+
+---
+
+# 2. IDENTIDADE E PROPOSTA DO MOVA
+
+O nome do aplicativo é MOVA.
+
+O MOVA tem como objetivo ajudar jovens a desenvolver autonomia financeira por meio de ferramentas de organização, acompanhamento, planejamento e educação financeira.
+
+O aplicativo deverá transmitir:
+
+- Autonomia.
+- Confiança.
+- Modernidade.
+- Organização.
+- Leveza.
+- Simplicidade.
+- Acessibilidade.
+- Evolução financeira.
+
+A experiência deve ser intuitiva e divertida, sem parecer um sistema bancário tradicional ou excessivamente formal.
+
+## Identidade visual
+
+A cor principal obrigatória é:
+
+**#0C6B58**
+
+Utilize essa cor em:
+
+- Botões principais.
+- Elementos de navegação.
+- Ícones importantes.
+- Indicadores financeiros.
+- Gráficos.
+- Destaques.
+- Componentes da identidade visual.
+
+Utilize também:
+
+- Fundo branco ou tons claros.
+- Verde-claro.
+- Bege.
+- Cinza-claro.
+- Cores complementares suaves.
+- Tipografia moderna.
+- Cantos arredondados.
+- Ícones intuitivos.
+- Ilustrações leves.
+- Gráficos simples.
+- Animações discretas.
+
+Evite excesso de informações e componentes desnecessários.
+
+Toda a interface deverá estar em português brasileiro, com valores em reais (R$), datas no padrão brasileiro e linguagem acessível.
+
+Priorize uma experiência mobile-first, responsiva e adaptada a diferentes dispositivos.
+
+---
+
+# 3. DESENVOLVIMENTO COMPLETO DO BACKEND
+
+<escape>ESTA É UMA DAS PRINCIPAIS RESPONSABILIDADES DESTE PROJETO.</escape>
+
+Estou disponibilizando todo o backend atual do MOVA para que você possa assumir sua análise, desenvolvimento, correção, complementação e evolução.
+
+Quero que você tenha autonomia técnica para construir a estrutura de backend mais completa possível, considerando todas as funcionalidades do aplicativo.
+
+Não se limite a fazer pequenas integrações ou corrigir apenas os erros encontrados.
+
+Se identificar que faltam serviços, endpoints, regras de negócio, validações, controladores, modelos ou qualquer outra estrutura necessária, desenvolva-os.
+
+## 3.1. Arquitetura geral
+
+Organize o backend de maneira:
+
+- Modular.
+- Escalável.
+- Segura.
+- Manutenível.
+- Bem documentada.
+- Integrada ao frontend.
+- Preparada para futuras expansões.
+
+Preserve as tecnologias atuais quando forem adequadas.
+
+Não faça uma migração tecnológica desnecessária.
+
+## 3.2. Funcionalidades que o backend deverá sustentar
+
+Desenvolva ou aprimore toda a lógica necessária para:
+
+- Cadastro e autenticação.
+- Gerenciamento de usuários.
+- Receitas.
+- Despesas.
+- Categorias.
+- Orçamentos.
+- Metas financeiras.
+- Dashboard.
+- Resumo mensal.
+- Histórico de movimentações.
+- Histórico financeiro dos últimos 12 meses.
+- Comparativos financeiros.
+- Indicadores.
+- Notificações.
+- Educação financeira.
+- Pesquisa de artigos.
+- Inteligência artificial.
+- Histórico de conversas.
+- Preferências e configurações.
+
+Cada funcionalidade deverá possuir sua própria lógica de negócio, validações e comunicação com o frontend.
+
+## 3.3. Autonomia de desenvolvimento
+
+Analise todo o código disponibilizado e desenvolva as partes que estiverem faltando.
+
+Você deverá:
+
+- Criar serviços necessários.
+- Implementar controladores.
+- Organizar rotas.
+- Criar endpoints.
+- Desenvolver regras de negócio.
+- Corrigir erros.
+- Implementar validações.
+- Organizar modelos de dados.
+- Melhorar a segurança.
+- Desenvolver integrações.
+- Implementar tratamento de exceções.
+- Criar testes.
+- Documentar a arquitetura.
+
+Não entregue apenas um planejamento do que deveria ser feito. Implemente efetivamente as melhorias possíveis.
+
+---
+
+# 4. FUNCIONALIDADES DO FRONTEND
+
+Preserve o fluxo de usuário existente e aprimore as telas conforme necessário.
+
+## 4.1. Primeiro acesso e cadastro
+
+Inclua ou aprimore:
+
+- Splash screen.
+- Onboarding.
+- Cadastro.
+- Login.
+- Recuperação de senha.
+- Configuração inicial.
+- Identificação dos objetivos financeiros.
+- Preferências do usuário.
+- Tela de boas-vindas.
+- Direcionamento para o dashboard.
+
+O cadastro deverá ser simples e intuitivo.
+
+Caso exista integração bancária disponível, permita conectar uma conta, mantendo a possibilidade de continuar sem conexão.
+
+## 4.2. Dashboard inicial
+
+O dashboard será o centro da experiência do MOVA.
+
+Apresente:
+
+- Saudação personalizada.
+- Saldo disponível.
+- Total de receitas do mês.
+- Total de despesas do mês.
+- Gráfico de entradas e saídas.
+- Categorias com maiores gastos.
+- Últimas movimentações.
+- Progresso das metas.
+- Acesso rápido para adicionar movimentações.
+- Acesso à seção Ver meu mês.
+- Indicadores financeiros.
+- Dicas personalizadas.
+- Acesso destacado à IA.
+- Indicador de evolução em relação ao mês anterior.
+- Acesso à análise dos últimos 12 meses.
+
+Todos os valores deverão ser calculados com base nos registros disponíveis.
+
+## 4.3. Adicionar movimentações
+
+Permita registrar receitas e despesas.
+
+O fluxo deverá conter:
+
+1. Escolha entre receita e despesa.
+2. Inserção do valor.
+3. Seleção da categoria.
+4. Escolha da data.
+5. Descrição opcional.
+6. Revisão.
+7. Confirmação.
+8. Mensagem de sucesso.
+9. Atualização automática dos indicadores.
+
+Categorias sugeridas:
+
+- Alimentação.
+- Transporte.
+- Lazer.
+- Moradia.
+- Saúde.
+- Educação.
+- Salário.
+- Mesada.
+- Freelance.
+- Outros.
+
+Implemente também edição, exclusão, cancelamento e validação.
+
+Toda alteração deverá atualizar o dashboard, os gráficos, o histórico e os comparativos.
+
+## 4.4. Ver meu mês
+
+Crie uma área de acompanhamento mensal com:
+
+- Total de receitas.
+- Total de despesas.
+- Saldo do período.
+- Comparação com o mês anterior.
+- Gráfico de receitas e despesas.
+- Distribuição por categoria.
+- Categorias com maior impacto.
+- Histórico detalhado.
+- Recomendações da IA.
+
+Exemplo:
+
+"Seus gastos com alimentação aumentaram em relação ao mês anterior. Veja algumas formas de organizar melhor esse orçamento."
+
+## 4.5. Movimentações e histórico
+
+Inclua:
+
+- Lista organizada por data.
+- Identificação de receitas e despesas.
+- Valor.
+- Categoria.
+- Descrição.
+- Filtros por período.
+- Filtros por categoria.
+- Filtros por tipo.
+- Pesquisa.
+- Edição.
+- Exclusão.
+- Consulta detalhada.
+
+Permita que a IA consulte os registros autorizados.
+
+## 4.6. Metas financeiras
+
+Permita criar metas como:
+
+- Comprar um computador.
+- Fazer uma viagem.
+- Pagar um curso.
+- Comprar um celular.
+- Criar uma reserva financeira.
+
+Cada meta deverá apresentar:
+
+- Nome.
+- Valor desejado.
+- Prazo.
+- Valor acumulado.
+- Percentual concluído.
+- Valor restante.
+- Contribuição mensal estimada.
+- Edição e encerramento.
+
+A IA deverá calcular quanto guardar mensalmente e apresentar cenários alternativos.
+
+## 4.7. Categorias e orçamento
+
+Permita:
+
+- Criar categorias.
+- Editar categorias.
+- Consultar categorias.
+- Definir limites.
+- Acompanhar despesas.
+- Comparar categorias.
+- Identificar limites ultrapassados.
+
+## 4.8. Educação financeira
+
+Crie uma área de conteúdos com:
+
+- Organização financeira.
+- Controle de gastos.
+- Planejamento mensal.
+- Economia.
+- Consumo consciente.
+- Reserva de emergência.
+- Metas financeiras.
+- Introdução aos investimentos.
+
+Cada artigo deverá apresentar título, resumo, fonte, link original e data de publicação, quando disponível.
+
+Não invente publicações ou fontes.
+
+## 4.9. Notificações
+
+Implemente alertas para:
+
+- Registro de movimentações.
+- Aproximação de limites.
+- Progresso de metas.
+- Resumo mensal.
+- Mudanças relevantes nos gastos.
+- Dicas personalizadas.
+
+Permita configurar as notificações.
+
+## 4.10. Perfil e configurações
+
+Inclua:
+
+- Dados pessoais.
+- Preferências.
+- Categorias.
+- Contas conectadas, se aplicável.
+- Notificações.
+- Segurança.
+- Privacidade.
+- Ajuda.
+- Suporte.
+- Termos de uso.
+- Política de privacidade.
+- Sair da conta.
+
+---
+
+# 5. EVOLUÇÃO DA INTELIGÊNCIA ARTIFICIAL EXISTENTE
+
+**NÃO CRIE UMA NOVA IA. APRIMORE DIRETAMENTE A INTELIGÊNCIA ARTIFICIAL QUE JÁ EXISTE NO MOVA.**
+
+A IA deverá deixar de ser um chatbot genérico e se tornar um verdadeiro assistente de organização e educação financeira.
+
+Ela deverá compreender os registros financeiros, identificar padrões, realizar cálculos, comparar períodos, pesquisar conteúdos e oferecer orientações personalizadas.
+
+## 5.1. Inteligência contextual
+
+A IA deverá reconhecer a tela e a funcionalidade que o usuário está utilizando.
+
+No dashboard:
+
+- Como estão minhas finanças?
+- Quanto posso gastar até o fim do mês?
+- Onde estou gastando mais?
+- O que posso melhorar?
+
+Em Ver meu mês:
+
+- Por que gastei mais este mês?
+- Quanto minhas despesas representam das minhas receitas?
+- Compare este mês com o anterior.
+- Qual foi minha maior despesa?
+
+Em Movimentações:
+
+- Quanto gastei com alimentação?
+- Quanto recebi nos últimos 30 dias?
+- Quais foram minhas maiores despesas?
+- Calcule minhas movimentações.
+
+Em Metas:
+
+- Quanto preciso guardar por mês?
+- Quanto falta para minha meta?
+- O que acontece se guardar R$ 100 a mais?
+- Minha meta está compatível com meu orçamento?
+
+Em Categorias:
+
+- Quanto gasto com lazer?
+- Compare alimentação e transporte.
+- Quais categorias tiveram maior aumento?
+- Como posso respeitar meus limites?
+
+Em Educação financeira:
+
+- Como começar a economizar?
+- Procure artigos sobre organização financeira.
+- Explique como funciona uma reserva de emergência.
+- Indique conteúdos para iniciantes.
+
+## 5.2. Interface da IA
+
+Preserve e aprimore o chat existente.
+
+Inclua:
+
+- Mensagem inicial acolhedora.
+- Campo para perguntas.
+- Botão de envio.
+- Sugestões contextuais.
+- Histórico.
+- Indicador de carregamento.
+- Mensagens de erro.
+- Opção de tentar novamente.
+- Respostas organizadas.
+- Cálculos destacados.
+- Artigos relacionados.
+- Links externos.
+- Opção de iniciar nova conversa.
+
+Mensagem inicial:
+
+"Oi! Sou o assistente do MOVA. Vamos entender melhor seu dinheiro?"
+
+## 5.3. Continuidade das conversas
+
+A IA deverá compreender perguntas complementares.
+
+Exemplo:
+
+Usuário: "Quanto gastei com alimentação?"
+
+IA: apresenta o total.
+
+Usuário: "E no mês passado?"
+
+IA: entende que a pergunta continua relacionada à alimentação.
+
+Usuário: "Compare os dois."
+
+IA: apresenta a comparação dos períodos.
+
+Implemente gerenciamento de contexto e histórico, respeitando as permissões e a privacidade.
+
+---
+
+# 6. INTEGRAÇÃO COM A API DA OPENAI
+
+Integre a IA existente à API da OpenAI para aprimorar sua capacidade de interpretação, compreensão e geração de respostas.
+
+Analise a implementação atual e aproveite os serviços existentes quando possível.
+
+## 6.1. Configuração
+
+Utilize uma variável de ambiente no backend:
+
+`OPENAI_API_KEY`
+
+A chave deverá ficar exclusivamente no servidor.
+
+Nunca exponha credenciais no frontend, JavaScript público, arquivos acessíveis ao usuário ou repositórios.
+
+Se uma chave já tiver sido compartilhada ou exposta, ela deverá ser revogada e substituída por uma nova.
+
+Não invente credenciais nem considere a integração concluída sem testes reais.
+
+## 6.2. Funcionalidades da integração
+
+A integração deverá permitir:
+
+- Processar perguntas.
+- Interpretar linguagem natural.
+- Identificar intenções.
+- Compreender o contexto da tela.
+- Interpretar dados financeiros enviados pelo backend.
+- Explicar cálculos.
+- Analisar tendências.
+- Comparar períodos.
+- Produzir recomendações.
+- Consultar conteúdos quando necessário.
+- Manter o contexto das conversas.
+
+## 6.3. Segurança e controle
+
+Implemente:
+
+- Chamadas protegidas pelo backend.
+- Variáveis de ambiente.
+- Controle de acesso.
+- Validação das requisições.
+- Tratamento de erros.
+- Limites de utilização.
+- Proteção contra uso indevido.
+
+A IA não deverá receber automaticamente todo o banco de dados.
+
+Envie apenas as informações necessárias para cada solicitação.
+
+---
+
+# 7. NOVA FUNCIONALIDADE: HISTÓRICO FINANCEIRO DOS ÚLTIMOS 12 MESES
+
+Implemente uma área chamada:
+
+**MINHA EVOLUÇÃO FINANCEIRA**
+
+Essa funcionalidade deverá permitir que o usuário acompanhe sua evolução financeira ao longo dos últimos 12 meses.
+
+Deverá estar acessível pelo dashboard e pela seção Ver meu mês.
+
+## 7.1. Indicadores
+
+Apresente:
+
+- Total de receitas.
+- Total de despesas.
+- Saldo acumulado.
+- Média mensal de receitas.
+- Média mensal de despesas.
+- Mês com maior receita.
+- Mês com maior despesa.
+- Mês com melhor saldo.
+- Categoria com maior concentração de gastos.
+- Evolução das receitas.
+- Evolução das despesas.
+- Evolução dos saldos mensais.
+
+Diferencie valores acumulados, médias e saldos mensais.
+
+Não some saldos mensais como se fossem automaticamente equivalentes ao saldo bancário atual.
+
+## 7.2. Gráficos
+
+Implemente gráficos interativos para:
+
+1. Receitas versus despesas mês a mês.
+2. Evolução do saldo mensal.
+3. Distribuição das despesas por categoria.
+4. Evolução dos gastos por categoria.
+5. Comparação entre os meses.
+6. Tendências financeiras.
+
+Os gráficos deverão apresentar:
+
+- Legendas.
+- Valores.
+- Identificação dos meses.
+- Informações detalhadas ao selecionar os elementos.
+- Layout responsivo.
+
+Permita selecionar um mês para consultar suas movimentações.
+
+## 7.3. Tratamento do histórico
+
+Utilize os meses disponíveis.
+
+Se o usuário possuir apenas três meses de registros, apresente os três meses e informe que a análise é parcial.
+
+Diferencie:
+
+- Mês sem movimentações.
+- Mês sem dados disponíveis.
+- Mês com registros.
+
+Não invente valores para completar os 12 meses.
+
+---
+
+# 8. COMPARATIVOS FINANCEIROS INTELIGENTES
+
+Implemente uma funcionalidade chamada:
+
+**COMPARAR MINHAS FINANÇAS**
+
+Permita comparar períodos por meio de seletores e perguntas naturais à IA.
+
+## 8.1. Comparação mensal
+
+Permita comparar:
+
+- Mês atual versus anterior.
+- Dois meses selecionados.
+- Últimos três meses.
+- Últimos seis meses.
+- Últimos 12 meses.
+
+Apresente:
+
+- Receitas.
+- Despesas.
+- Saldos.
+- Diferenças em reais.
+- Variações percentuais.
+- Categorias com maiores mudanças.
+
+## 8.2. Comparação por categoria
+
+Permita comparar:
+
+- Alimentação.
+- Transporte.
+- Moradia.
+- Lazer.
+- Saúde.
+- Educação.
+- Outras categorias cadastradas.
+
+Exemplos:
+
+- Alimentação versus transporte.
+- Gastos com lazer nos últimos seis meses.
+- Evolução das despesas com moradia.
+- Categorias que mais aumentaram.
+
+## 8.3. Comparação anual
+
+Permita analisar:
+
+- Evolução das receitas.
+- Evolução das despesas.
+- Média mensal de gastos.
+- Melhor e pior resultado mensal.
+- Categorias com maior impacto.
+- Mudanças nos hábitos financeiros.
+- Evolução do saldo.
+
+Não invente dados de anos anteriores.
+
+## 8.4. Perguntas para a IA
+
+- Compare meus últimos 12 meses.
+- Qual foi meu mês de maior economia?
+- Quanto gastei a mais neste mês?
+- Minhas despesas estão aumentando?
+- Minha renda está crescendo?
+- Em quais meses gastei mais?
+- Qual categoria mais aumentou?
+- Como evoluí financeiramente durante o ano?
+- Quanto consegui economizar?
+- Estou melhorando minha organização financeira?
+
+---
+
+# 9. IA COMO ANALISTA DOS ÚLTIMOS 12 MESES
+
+A IA deverá ter acesso controlado aos dados financeiros consolidados por meio do backend.
+
+Ela deverá transformar números em informações compreensíveis.
+
+Exemplo:
+
+Usuário:
+
+"Como está minha evolução financeira nos últimos 12 meses?"
+
+Resposta esperada:
+
+"Analisei seus registros financeiros disponíveis e identifiquei mudanças na sua organização financeira.
+
+Durante o período, observei:
+
+- A evolução das suas receitas.
+- A evolução das suas despesas.
+- As categorias que mais impactaram seu orçamento.
+- Os meses com melhores resultados.
+- As oportunidades de economia.
+
+Também posso comparar meses específicos para identificar as maiores mudanças."
+
+A IA deverá:
+
+- Explicar diferenças.
+- Identificar padrões.
+- Apontar possíveis problemas.
+- Identificar oportunidades de economia.
+- Sugerir ações práticas.
+- Apresentar os números que justificam suas conclusões.
+
+Não faça afirmações sem evidências nos dados.
+
+Não considere aumento de despesas automaticamente como piora financeira. Analise também as receitas e os saldos.
+
+Não classifique um mês como melhor ou pior sem explicar o critério.
+
+---
+
+# 10. MOTOR DE CÁLCULOS FINANCEIROS
+
+Desenvolva uma camada de cálculos determinísticos no backend.
+
+A IA poderá explicar os resultados, mas não deverá inventar valores nem substituir os cálculos oficiais.
+
+Implemente:
+
+- Total de receitas.
+- Total de despesas.
+- Saldo do período.
+- Diferença entre períodos.
+- Percentual de renda comprometida.
+- Distribuição percentual por categoria.
+- Média mensal de gastos.
+- Média mensal de receitas.
+- Variação percentual.
+- Valor restante do orçamento.
+- Orçamento planejado versus realizado.
+- Valor restante de metas.
+- Percentual de progresso.
+- Contribuição mensal necessária.
+- Simulações de economia.
+
+Fórmulas:
+
+Saldo = receitas - despesas.
+
+Percentual da renda comprometida = despesas / receitas × 100, quando as receitas forem positivas e comparáveis.
+
+Progresso da meta = valor acumulado / valor desejado × 100, quando o valor desejado for positivo.
+
+Valor mensal para a meta = valor restante / meses restantes, considerando prazo válido e sem assumir rendimentos.
+
+Variação percentual = (valor atual - valor anterior) / valor anterior × 100, quando o valor anterior for diferente de zero.
+
+Trate:
+
+- Divisão por zero.
+- Valores ausentes.
+- Períodos incompletos.
+- Categorias sem registros.
+- Meses sem movimentações.
+- Dados duplicados.
+- Valores inválidos.
+
+Quando não for possível calcular uma porcentagem, apresente a diferença absoluta em reais.
+
+---
+
+# 11. PESQUISA DE ARTIGOS E CONTEÚDOS NA WEB
+
+A IA deverá conseguir pesquisar artigos relacionados aos problemas e perguntas dos usuários.
+
+O fluxo deverá ser:
+
+1. O usuário faz uma pergunta.
+2. A IA identifica o tema.
+3. O backend consulta um serviço de pesquisa.
+4. Os resultados são filtrados por relevância e confiabilidade.
+5. Os metadados são organizados.
+6. A IA apresenta orientações contextualizadas.
+7. O frontend exibe os artigos.
+
+Cada artigo deverá apresentar:
+
+- Título.
+- Resumo.
+- Fonte.
+- Data de publicação, quando disponível.
+- Link original.
+- Identificação de conteúdo externo.
+
+Não invente publicações, autores, fontes ou links.
+
+Caso a pesquisa real não esteja configurada, prepare a integração e utilize exemplos identificados como demonstrativos.
+
+Todas as credenciais deverão ficar no backend.
+
+---
+
+# 12. BACKEND: SERVIÇOS E ORGANIZAÇÃO TÉCNICA
+
+Desenvolva ou aprimore os seguintes serviços, respeitando a arquitetura existente:
+
+- `assistantService`: comunicação com a IA.
+- `calculationService`: cálculos financeiros.
+- `historyService`: histórico de movimentações.
+- `annualAnalysisService`: análise dos últimos 12 meses.
+- `comparisonService`: comparativos financeiros.
+- `articleService`: pesquisa de artigos.
+- `transactionService`: receitas e despesas.
+- `goalsService`: metas.
+- `budgetService`: orçamentos.
+- `dashboardService`: indicadores.
+- `notificationService`: notificações.
+- `settingsService`: configurações.
+- `authService`: autenticação e autorização.
+
+Esses serviços são uma proposta de organização. Preserve padrões técnicos existentes quando forem adequados.
+
+## 12.1. Endpoints e API
+
+Desenvolva e organize os endpoints necessários para as funcionalidades.
+
+Cada endpoint deverá possuir:
+
+- Método HTTP adequado.
+- Identificação clara.
+- Validação de entrada.
+- Autenticação quando necessária.
+- Autorização.
+- Tratamento de erros.
+- Respostas padronizadas.
+- Documentação.
+
+Evite duplicidade de rotas e regras financeiras no frontend.
+
+O frontend deverá consumir os serviços por interfaces bem definidas.
+
+## 12.2. Qualidade da arquitetura
+
+Implemente:
+
+- Separação de responsabilidades.
+- Reutilização de componentes e serviços.
+- Tratamento centralizado de erros quando adequado.
+- Validação de dados.
+- Logs seguros.
+- Configurações por ambiente.
+- Organização de dependências.
+- Documentação técnica.
+
+Não concentre todas as regras de negócio em um único arquivo.
+
+---
+
+# 13. FIREBASE REALTIME DATABASE — INTEGRAÇÃO FUTURA
+
+O Firebase Realtime Database será integrado somente depois da conclusão e revisão do protótipo e da estrutura do projeto.
+
+Portanto:
+
+- Não conecte um Firebase real sem autorização e configuração.
+- Não invente credenciais.
+- Não simule conexão real.
+- Não armazene dados financeiros reais em estruturas demonstrativas.
+
+Prepare a camada de dados para permitir a futura integração sem reconstruir as funcionalidades.
+
+Considere:
+
+- `users/{userId}`
+- `transactions/{userId}/{transactionId}`
+- `categories/{userId}/{categoryId}`
+- `goals/{userId}/{goalId}`
+- `budgets/{userId}/{budgetId}`
+- `settings/{userId}`
+- `conversations/{userId}/{conversationId}`
+- `articleCache/{articleId}`
+
+A estrutura deverá permitir consultas eficientes dos últimos 12 meses.
+
+Os dados deverão ser separados por usuário, respeitando autenticação e regras de segurança.
+
+---
+
+# 14. SEGURANÇA E PRIVACIDADE
+
+Implemente práticas adequadas de segurança.
+
+Inclua:
+
+- Proteção de credenciais.
+- Variáveis de ambiente.
+- Autenticação.
+- Autorização.
+- Validação de dados.
+- Proteção das rotas.
+- Separação dos dados por usuário.
+- Controle de acesso.
+- Tratamento de erros.
+- Proteção contra requisições indevidas.
+- Limitação de requisições quando necessário.
+- Logs sem exposição de informações financeiras ou segredos.
+- Proteção das integrações externas.
+
+Nunca exponha a chave da OpenAI ou outras credenciais no frontend.
+
+A IA deverá atuar prioritariamente como ferramenta educativa e de organização financeira.
+
+Não prometa rendimentos, não garanta resultados e não ofereça recomendações de investimento personalizadas sem contexto e salvaguardas apropriadas.
+
+---
+
+# 15. NAVEGAÇÃO E INTERATIVIDADE
+
+Preserve o fluxo existente e organize a navegação de maneira simples.
+
+Sugestão de navegação inferior:
+
+- Início.
+- Movimentações.
+- Metas.
+- Educação financeira.
+- Perfil.
+
+Inclua acesso destacado para adicionar movimentações.
+
+A IA deverá estar acessível pelo dashboard e pelas demais áreas por meio de um botão flutuante ou componente contextual.
+
+Implemente:
+
+- Navegação entre telas.
+- Registro de receitas e despesas.
+- Atualização dos valores.
+- Filtros.
+- Criação de metas.
+- Consulta de histórico.
+- Resumo mensal.
+- Evolução financeira.
+- Comparativos.
+- Abertura e fechamento da IA.
+- Envio de perguntas.
+- Resultados matemáticos.
+- Exibição de artigos.
+- Mensagens de sucesso.
+- Mensagens de erro.
+- Estados vazios.
+- Carregamentos.
+
+Todos os botões deverão produzir resultados perceptíveis.
+
+Não crie controles decorativos sem ação.
+
+Quando alguma integração ainda não estiver configurada, informe isso claramente e não apresente simulações como funcionalidades reais.
+
+---
+
+# 16. ACESSIBILIDADE E EXPERIÊNCIA DO USUÁRIO
+
+Garanta:
+
+- Hierarquia visual clara.
+- Textos objetivos.
+- Botões com rótulos compreensíveis.
+- Contraste adequado.
+- Ícones intuitivos.
+- Gráficos legíveis.
+- Áreas de toque adequadas.
+- Mensagens de erro claras.
+- Responsividade.
+- Navegação simples.
+- Consistência visual.
+
+O usuário deverá conseguir compreender suas finanças sem precisar dominar termos técnicos.
+
+---
+
+# 17. TESTES OBRIGATÓRIOS
+
+Não quero um sistema que apenas pareça funcional.
+
+Teste efetivamente as implementações.
+
+## Aplicativo
+
+- Navegação.
+- Cadastro.
+- Login.
+- Movimentações.
+- Metas.
+- Categorias.
+- Dashboard.
+- Histórico.
+
+## Backend
+
+- Autenticação.
+- Autorização.
+- Endpoints.
+- Serviços.
+- Validação.
+- Persistência.
+- Tratamento de erros.
+- Segurança.
+- Comunicação com frontend.
+
+## Inteligência artificial
+
+- Respostas contextuais.
+- Consulta dos dados financeiros.
+- Interpretação de perguntas.
+- Continuidade das conversas.
+- Cálculos.
+- Comparativos.
+- Recomendações.
+- Tratamento de erros.
+- Integração real com a OpenAI.
+
+## Histórico de 12 meses
+
+- Consolidação mensal.
+- Indicadores.
+- Gráficos.
+- Meses sem registros.
+- Períodos incompletos.
+- Atualização após novas movimentações.
+
+## Comparativos
+
+- Comparação entre meses.
+- Comparação entre categorias.
+- Comparação de receitas.
+- Comparação de despesas.
+- Variações em reais.
+- Variações percentuais.
+- Ausência de dados.
+
+## Segurança
+
+- Proteção das chaves.
+- Dados separados por usuário.
+- Chamadas protegidas.
+- Ausência de credenciais expostas.
+
+Não considere uma funcionalidade concluída apenas porque existe uma tela ou botão.
+
+Verifique seu funcionamento real.
+
+---
+
+# 18. ORDEM DE EXECUÇÃO
+
+Siga esta ordem de desenvolvimento:
+
+**ETAPA 1 — ANÁLISE COMPLETA**
+
+Examine o frontend, backend, código, estrutura, fluxo e integrações.
+
+**ETAPA 2 — ORGANIZAÇÃO E CORREÇÕES**
+
+Corrija problemas existentes e organize a arquitetura.
+
+**ETAPA 3 — DESENVOLVIMENTO DO BACKEND**
+
+Desenvolva todos os serviços, endpoints, regras de negócio e integrações necessárias.
+
+**ETAPA 4 — EVOLUÇÃO DA IA**
+
+Aprimore o assistente existente e integre a API da OpenAI pelo backend.
+
+**ETAPA 5 — DADOS FINANCEIROS**
+
+Organize a recuperação, consolidação e processamento das movimentações.
+
+**ETAPA 6 — HISTÓRICO DE 12 MESES**
+
+Implemente os indicadores, gráficos e análises anuais.
+
+**ETAPA 7 — COMPARATIVOS**
+
+Implemente comparações mensais, anuais e por categoria.
+
+**ETAPA 8 — IA ANALÍTICA**
+
+Integre os resultados dos cálculos à IA para produzir análises contextualizadas.
+
+**ETAPA 9 — PESQUISA NA WEB**
+
+Implemente ou prepare a integração com serviços de pesquisa de artigos.
+
+**ETAPA 10 — INTEGRAÇÃO FRONTEND E BACKEND**
+
+Conecte as telas aos serviços reais e elimine simulações onde a funcionalidade já puder ser implementada.
+
+**ETAPA 11 — TESTES**
+
+Teste as funcionalidades, integrações, cálculos, segurança e responsividade.
+
+**ETAPA 12 — REVISÃO E DOCUMENTAÇÃO**
+
+Revise o projeto completo e documente a execução, configurações e integrações pendentes.
+
+---
+
+# 19. DOCUMENTAÇÃO E ENTREGA FINAL
+
+Ao concluir o desenvolvimento, disponibilize:
+
+1. Código atualizado do frontend.
+2. Backend completo e organizado.
+3. Estrutura de pastas.
+4. Serviços implementados.
+5. Endpoints funcionais.
+6. Arquivo `.env.example`, sem credenciais reais.
+7. Documentação das variáveis de ambiente.
+8. Documentação das rotas.
+9. Instruções para executar o backend.
+10. Instruções para conectar o frontend.
+11. Testes implementados.
+12. Lista de funcionalidades concluídas.
+13. Lista de funcionalidades que ainda dependem de credenciais ou serviços externos.
+14. Orientações para a futura integração com Firebase.
+
+Não declare funcionalidades como concluídas quando ainda dependerem de configurações externas.
+
+Caso não seja possível implementar alguma parte por limitações de acesso, ferramentas ou credenciais, informe exatamente o que ficou pendente.
+
+Não entregue somente trechos de código ou instruções quando puder editar os arquivos diretamente.
+
+---
+
+# 20. VISÃO FINAL DO PROJETO
+
+Quero que o MOVA seja mais do que um aplicativo para registrar gastos.
+
+Quero que seja uma plataforma inteligente que ajude os jovens a compreender seu dinheiro, acompanhar sua evolução financeira, identificar padrões de consumo, estabelecer metas e desenvolver autonomia para tomar decisões melhores.
+
+O grande diferencial deverá ser a integração entre:
+
+- Controle financeiro.
+- Inteligência artificial.
+- Análises personalizadas.
+- Histórico financeiro de 12 meses.
+- Comparativos inteligentes.
+- Educação financeira.
+- Recomendações contextualizadas.
+
+A IA deverá ser capaz de compreender a realidade financeira do usuário e transformar dados em orientações práticas.
+
+O backend deverá ser robusto o suficiente para sustentar todas essas funcionalidades e permitir a evolução futura do aplicativo.
+
+## INSTRUÇÃO FINAL — PRIORIDADE MÁXIMA
+
+Utilize todos os arquivos disponibilizados para trabalhar diretamente no projeto MOVA.
+
+Estou fornecendo tanto o frontend quanto todo o backend atual para que você tenha autonomia para analisar, corrigir, desenvolver e complementar a estrutura.
+
+**Quero o backend mais completo possível, não apenas uma integração básica com a inteligência artificial.**
+
+Quero que você desenvolva toda a infraestrutura necessária para que as funcionalidades do MOVA funcionem corretamente, mantendo a compatibilidade entre frontend e backend.
+
+Não reconstrua o aplicativo do zero.
+
+Não descarte funcionalidades existentes.
+
+Não invente dados ou integrações.
+
+Não exponha credenciais.
+
+Não entregue apenas sugestões.
+
+Implemente, teste, organize e documente o máximo possível dentro do ambiente e dos arquivos disponibilizados.
+
+**O resultado final deverá ser um MOVA funcional, com frontend e backend integrados, inteligência artificial aprimorada, análises financeiras de 12 meses, comparativos inteligentes e uma arquitetura segura, organizada e preparada para expansão.**

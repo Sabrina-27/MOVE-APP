@@ -1,0 +1,6 @@
+{
+  "name": "MOVA - Controle Financeiro Inteligente",
+  "description": "Aplicativo de organização e autonomia financeira para jovens com inteligência artificial, histórico de 12 meses e comparativos financeiros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
